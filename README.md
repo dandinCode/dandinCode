@@ -23,7 +23,7 @@ Atuo na manutenção e evolução de sistemas em produção utilizando **PHP, Vu
 🔗 **LinkedIn**: [Caio Finotti](https://www.linkedin.com/in/caio-finotti-7520a7222/)  
 📺 **YouTube**: [Dandin Code](https://www.youtube.com/@dandincode)
 
-No YouTube, uso o canal como um espaço para **documentar aprendizados**, compartilhar **soluções práticas** e dividir ideias.
+No YouTube, uso o canal como um espaço para documentar aprendizados, compartilhar soluções práticas e dividir ideias.
 
 <p align="left">
     <a href="https://www.youtube.com/@dandincode?sub_confirmation=1">
