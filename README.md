@@ -5,7 +5,7 @@
 Desenvolvedor Full Stack com foco em **manutenção, performance e evolução de sistemas em produção**. 
 Graduado em Engenharia de Software pela UFC e atualmente atuando como desenvolvedor na [Norven](https://www.linkedin.com/company/norvenbr/posts/?feedView=all).
 
-No dia a dia, lido com código legado, refatorações inevitáveis e consultas que *funcionam*, mas claramente podem — e devem — funcionar melhor.
+No dia a dia, lido com código legado, refatorações inevitáveis e consultas que *funcionam*, mas claramente podem, e devem, funcionar melhor.
 Valorizo entender o **porquê das decisões técnicas**, não apenas entregar código funcional.
 
 ### 🛠️ O que faço atualmente
